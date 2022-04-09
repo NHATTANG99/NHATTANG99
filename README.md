@@ -23,16 +23,16 @@
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5Liv9ZJCgG0wlc5ri69wzA/videos)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC5Liv9ZJCgG0wlc5ri69wzA/videos)
+<!-- [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC5Liv9ZJCgG0wlc5ri69wzA/videos) -->
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/NhatTang9)
-[![website](./img/twitter-dark.svg)](https://twitter.com/NhatTang9)
+<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/NhatTang9) -->
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nhat-tang-b9b175223/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nhat-tang-b9b175223/)
+<!-- [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nhat-tang-b9b175223/) -->
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/minhnhat_th/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/minhnhat_th/)
+<!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/minhnhat_th/) -->
 
 ### Languages and Tools:
 
