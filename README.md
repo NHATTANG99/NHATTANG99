@@ -21,7 +21,7 @@
 <!-- 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp; -->
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5Liv9ZJCgG0wlc5ri69wzA/videos)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC5Liv9ZJCgG0wlc5ri69wzA/videos)
 &nbsp;&nbsp;
