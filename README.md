@@ -7,12 +7,14 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I :heart: :cat:s and 
-
+- ⚡ Fun fact: I :heart: :cat:s and gaming
 
 
 ### Spotify Playing 🎧
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ag3rmv5pjomcr2xmv36rktz2s4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ag3rmv5pjomcr2xmv36rktz2s4&cover_image=true&theme=default&bar_color=b17e4e&bar_color_cover=false)]]
+[![spotify-github-profile](https://nhattang-99.vercel.app/api/view?uid=31ag3rmv5pjomcr2xmv36rktz2s4&cover_image=true&theme=novatorem&bar_color=b17e4e&bar_color_cover=true)](https://open.spotify.com/user/31ag3rmv5pjomcr2xmv36rktz2s4)
+
+[<img src="https://nhattang-99.vercel.app/api/spotify-playing" alt="NhatTang Spotify Playing" width="350" />](https://open.spotify.com/user/31ag3rmv5pjomcr2xmv36rktz2s4)
+
 
 
 ### Connect with me:
