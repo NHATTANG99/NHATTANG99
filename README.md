@@ -71,6 +71,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Changing ourselves](https://dev.to/nhattang99/changing-ourselves-4id5)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.facebook.com/minhnhat.th/)
