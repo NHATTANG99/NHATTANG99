@@ -7,7 +7,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I :heart: :cat:s and 
+
+
+
+### Spotify Playing 🎧
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ag3rmv5pjomcr2xmv36rktz2s4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ag3rmv5pjomcr2xmv36rktz2s4&cover_image=true&theme=default&bar_color=b17e4e&bar_color_cover=false)]]
 
 
 ### Connect with me:
