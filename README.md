@@ -11,7 +11,8 @@
 
 
 ### Spotify Playing 🎧
-[![spotify](https://nhattang-99.vercel.app/api/view?uid=31ag3rmv5pjomcr2xmv36rktz2s4&cover_image=true&theme=novatorem&bar_color=b17e4e&bar_color_cover=true)](https://open.spotify.com/user/31ag3rmv5pjomcr2xmv36rktz2s4)
+[![spotify](https://nhattang-99.vercel.app/api/spotify/view?uid=31ag3rmv5pjomcr2xmv36rktz2s4&cover_image=true&theme=novatorem&bar_color=b17e4e&bar_color_cover=true)](https://open.spotify.com/user/31ag3rmv5pjomcr2xmv36rktz2s4)
+[![Spotify](https://nhattang-99.vercel.app/api/spotify)](https://open.spotify.com/user/nhattang-99)
 
 
 
