@@ -33,9 +33,10 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://www.jetbrains.com/company/brand/img/logo1.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Java spring boot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" style="padding-right:10px;" />
+<img align="left" alt="jetbrains" width="26px" src="https://www.jetbrains.com/company/brand/img/logo1.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
